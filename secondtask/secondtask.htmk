@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events</title>
+  <link rel="icon" href="image/img.jpeg">
+</head>
+
+<body bgcolor="white" style="color: rgb(141, 21, 21); ">
+
+  <center>
+    <div class="webpage">
+      <form action="action_page.php"></form>
+
+      <h1><label for="name">Name:</label>
+        <input type="text">
+      </h1>
+    </div>
+
+
+    <div class="right" style="text-align: right"><img src="images.png" width="200" alt="myimage" id="img1" /></div>
+
+
+
+
+
+    <style>
+      img {
+        height: 250px;
+        width: 250px;
+      }
+
+      #img1 {
+        text-align: right;
+      }
+    </style><br>
+
+
+  </center>
+  <h3><br>
+
+    <label for="about me">About Me:</label>
+    <textarea name="abtme" id="abtme" cols="300" rows="10">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit veniam, ipsa corrupti ea quos est cupiditate perferendis optio repellat blanditiis! Quibusdam perspiciatis ipsum magni alias ipsa laudantium explicabo minima delectus ex. Consectetur harum porro libero optio sequi facilis maxime dignissimos dolorum repellat cupiditate minima quos, alias adipisci, quibusdam nostrum iure.lorem100 
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit voluptatibus, sed et aperiam laboriosam ipsam porro provident! Voluptates rerum maxime nemo dignissimos! Accusamus deleniti libero quis numquam, in porro rerum minus nisi reiciendis labore at tempore nam error sint quo corrupti aut consequuntur perspiciatis quae exercitationem sapiente eveniet? Delectus esse, et cupiditate fugit recusandae consequuntur iure alias ullam molestias sed aliquid, quidem blanditiis expedita non labore cumque aut minus dolorum eaque deserunt nobis facilis fuga, voluptatibus placeat. Voluptatum quod ab, assumenda ut delectus sapiente. Ea omnis quam et deleniti non, illum asperiores expedita, error temporibus, itaque assumenda nihil in dolorum.
+
+</textarea>
+  </h3>
+  <br>
+  <div>
+    <h1>Contact</h1>
+
+
+
+    <h3>+91 9876543289 | abcdefgh@gmail.com</h3>
+
+  </div>
+  <br>
+  <footer>
+    <center>
+      <label for="copy">Copyright © WebPage </label>
+    </center>
+  </footer>
+</body>
+
+</html>
